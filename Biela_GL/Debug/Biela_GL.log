@@ -1,0 +1,8 @@
+﻿  Engine.cpp
+c:\users\alec\documents\schoolwork college\year 3 semester 1\igme309\gitreps\openglhw\biela_gl\biela_gl\engine.cpp(149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alec\documents\schoolwork college\year 3 semester 1\igme309\gitreps\openglhw\biela_gl\biela_gl\engine.cpp(224): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\alec\documents\schoolwork college\year 3 semester 1\igme309\gitreps\openglhw\biela_gl\biela_gl\engine.cpp(227): warning C4316: 'glm::tmat4x4<float,0>': object allocated on the heap may not be aligned 16
+c:\users\alec\documents\schoolwork college\year 3 semester 1\igme309\gitreps\openglhw\biela_gl\biela_gl\engine.cpp(228): warning C4316: 'glm::tmat4x4<float,0>': object allocated on the heap may not be aligned 16
+c:\users\alec\documents\schoolwork college\year 3 semester 1\igme309\gitreps\openglhw\biela_gl\biela_gl\engine.cpp(260): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alec\documents\schoolwork college\year 3 semester 1\igme309\gitreps\openglhw\biela_gl\biela_gl\engine.cpp(284): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Biela_GL.vcxproj -> C:\Users\Alec\Documents\Schoolwork College\Year 3 Semester 1\IGME309\gitreps\openglhw\Biela_GL\Debug\Biela_GL.exe
